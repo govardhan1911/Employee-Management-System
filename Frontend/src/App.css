@@ -1,0 +1,18 @@
+.App {
+    min-height: 100vh;
+    position: relative;
+    isolation: isolate;
+
+    /* Background image */
+    background-image: 
+        linear-gradient(
+            rgba(255, 255, 255, 0.85),
+            rgba(255, 255, 255, 0.85)
+        ),
+        url("https://gustavconcept.com/cdn/shop/articles/QIC_SYD_Unispace_QIC_resized_2_copy.jpg?v=1691409476&width=1600");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

@@ -1,0 +1,11 @@
+# Ignore Frontend built files
+**/frontend/node_modules/
+**/frontend/dist/
+**/frontend/build/
+**/frontend/.env
+
+# Ignore Java Backend built files
+**/backend/target/
+**/backend/build/
+**/backend/out/
+**/backend/.idea/
